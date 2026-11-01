@@ -1,0 +1,5 @@
+case,redistribution,expected
+identical,0.0,0.0
+tiny_perturbation,0.0,0.0
+moderate_shift,0.5,~0.5
+large_shift,1.0,1.0

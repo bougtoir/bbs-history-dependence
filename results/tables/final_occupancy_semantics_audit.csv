@@ -1,0 +1,7 @@
+quantity,value
+total_route_years,176564.0
+surveyed_route_years,71694.0
+not_surveyed_route_years,104870.0
+route_years_with_at_least_one_species_detection,71694.0
+surveyed_absent_route_years_mean_per_species,11080.879310344828
+species_route_year_detection_rows,3821564.0

@@ -1,0 +1,8 @@
+conclusion_item,pre_fix,post_fix,changed
+static persistence dominant?,"A0.287->B0.024, C0.306->D0.006 (collapse)","A0.299->B0.024, C0.315->D0.006",see doc
+prospective HG exists (HG_D>0)?,"median 0.0055, P>0 0.75","median 0.0059, P>0 0.77",see doc
+abundance prior-state effect,"median 0.362, CI>0 0.73","median 0.629, CI>0 0.34",see doc
+occupancy hysteresis (matched env),median 0.000,median 0.000,no
+redistribution lag / speed bias,env 1.000 hist 0.821,env 0.308 hist 0.264,see doc
+regional HG,0.271,-0.043,see doc
+final GO category,WEAK GO (Nature stopped),WEAK GO (Nature stopped),no
